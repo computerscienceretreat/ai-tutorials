@@ -11,7 +11,7 @@ If you don't already have your system set up to use Python, Tensorflow and Keras
 
 ## Exercise 1
 
-Run the iterative fast gradient sign attack [example](https://github.com/computerscienceretreat/adversarial/blob/master/iter_fast_gradient.py).  Find an image and get it to be classified as a teapot (class 849).  
+Run the iterative fast gradient sign attack [example](https://github.com/computerscienceretreat/adversarial/blob/master/iter_fast_gradient.py).  Find an image (of something that is *not* a teapot) and get it to be classified as a teapot (class 849).  
 
 
 
