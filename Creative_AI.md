@@ -13,6 +13,12 @@ Make an image of the Hogeschool Rotterdam in the style of Van Gogh.  Use the Ker
 
 
 
+## Exercise 2 - Style Transfer
+
+Change the style of your profile picture
+
+
+
 ## Final Exercise - create!
 
 
