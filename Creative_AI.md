@@ -11,7 +11,7 @@ If you have not already done so, setup Python, Tensorflow and Keras on your mach
 Make an image of the Hogeschool Rotterdam in the style of Van Gogh.  Use the Keras example [here](https://github.com/computerscienceretreat/keras/blob/master/examples/neural_style_transfer.py).
 
 
-Experiment with chaning:
+Experiment with changing:
 * style loss
 * content loss
 * total variation loss
