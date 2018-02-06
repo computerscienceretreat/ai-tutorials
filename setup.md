@@ -13,3 +13,8 @@ Install cleverhans:
 ~~~
 pip install -e git+https://github.com/tensorflow/cleverhans.git#egg=cleverhans
 ~~~
+
+Install PIL:
+~~~
+pip install pillow
+~~~
