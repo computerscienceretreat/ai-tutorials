@@ -1,11 +1,12 @@
 ## Regression
 
-Write Python code to complete the following tasks.  You will be using sklearn, pandas, numpy, scipy.optimize, matplotlib and pydataset.
+Write Python code to complete the following tasks.  You will be using `sklearn`, pandas, numpy, scipy.optimize, matplotlib and pydataset.
 
 1.  Get the 'JohnsonJohnson' dataset:
+```python
 from pydataset import data
 dataset = data('JohnsonJohnson')
-
+```
 2.  Plot the data - what is it showing?
 
 3.  Make a linear fit to the data and plot it overlaid on the data.
