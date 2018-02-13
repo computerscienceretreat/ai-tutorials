@@ -1,6 +1,6 @@
 ## Regression
 
-Write Python code to complete the following tasks.  You will be using `sklearn`, pandas, numpy, scipy.optimize, matplotlib and pydataset.
+Write Python code to complete the following tasks.  You will be using `sklearn`, `pandas`, `numpy`, `scipy.optimize`, `matplotlib` and `pydataset`.
 
 1.  Get the 'JohnsonJohnson' dataset:
 ```python
@@ -15,6 +15,6 @@ dataset = data('JohnsonJohnson')
 
 5.  Notice the annual structure to the data, what could be going on?
 
-6.  Optional: Now make a fit that will include the annual variations as well (tips - what kind of function could you use?  To fit arbitrary functions use leastsq from scipy.optimize and make sure to give sensible input parameters)
+6.  Optional: Now make a fit that will include the annual variations as well (tips - what kind of function could you use?  To fit arbitrary functions use `leastsq` from `scipy.optimize` and make sure to give sensible input parameters)
 
 7.  Optional: Make a fit using a neural network.
